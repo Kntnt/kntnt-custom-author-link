@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="kntnt-custom-author-link">
+            <key name="slug"/>
+        </key>
+    </admin-texts>
+</wpml-config>
